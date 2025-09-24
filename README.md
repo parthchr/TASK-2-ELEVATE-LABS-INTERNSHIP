@@ -18,14 +18,14 @@
 6. Top 10 Customers – TreeMap
 
 ## 💡 Key Insights
-- Technology drives the highest profit margins.
-- Furniture category struggles in profitability despite high sales.
-- West and East regions dominate sales; Central underperforms.
-- Sales spike during Q4 every year (holiday season).
-- Higher discounts negatively impact profit.
-- Top 10 customers contribute significantly to overall revenue.
+Total Sales = $2.30M, Profit = $286K, Orders = , Avg. Discount = 16%
+East region drives the highest revenue, South is weakest.
+Technology has highest profit, Furniture struggles despite sales.
+Sales are decreasing yearly.
+High discounts hurt profits (negative trend visible).
+Top 10 customers contribute ~20% of sales.
 
 ## 📤 Deliverables
-- Clean dashboard exported to **Task2_Dashboard.pdf**
+- Clean dashboard exported to screenshot of dashboard.
 - Dataset: `superstore.csv`
 - This repo folder contains both files.
